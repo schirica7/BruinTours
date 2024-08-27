@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "A0BB6B35-888A-4286-8476-6B7673F4C625"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "24014D7C-729C-49B1-8B7B-9D3B0725D8C1"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BruinTours/geodb.h"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "GeoDatabase"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1AB9BA2F-4B6E-44A2-9487-8DED05BE4F9A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BruinTours/router.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
+            landmarkName = "Router::route(pt1, pt2)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "1AB9BA2F-4B6E-44A2-9487-8DED05BE4F9A - 9aec53f61e1247a4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Router::route(GeoPoint const&amp;, GeoPoint const&amp;) const"
+                  moduleName = "BruinTours"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/stefanchirica/Dropbox/CS%2032/project%204/BruinTours/BruinTours/router.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "86"
+                  endingLineNumber = "86">
+               </Location>
+               <Location
+                  uuid = "1AB9BA2F-4B6E-44A2-9487-8DED05BE4F9A - 9aec53f61e124b5b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Router::route(GeoPoint const&amp;, GeoPoint const&amp;) const"
+                  moduleName = "BruinTours"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/stefanchirica/Dropbox/CS%2032/project%204/BruinTours/BruinTours/router.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "49"
+                  endingLineNumber = "49">
+               </Location>
+               <Location
+                  uuid = "1AB9BA2F-4B6E-44A2-9487-8DED05BE4F9A - 9aec53f61e124f85"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Router::route(GeoPoint const&amp;, GeoPoint const&amp;) const"
+                  moduleName = "BruinTours"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/stefanchirica/Dropbox/CS%2032/project%204/BruinTours/BruinTours/router.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23">
+               </Location>
+               <Location
+                  uuid = "1AB9BA2F-4B6E-44A2-9487-8DED05BE4F9A - 9aec53f61e124f85"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Router::route(GeoPoint const&amp;, GeoPoint const&amp;) const"
+                  moduleName = "BruinTours"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/stefanchirica/Dropbox/CS%2032/project%204/BruinTours/BruinTours/router.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "ECA76023-06DD-4E4E-B6CF-6FBD58027E9D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BruinTours/router.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "52"
+            endingLineNumber = "52"
+            landmarkName = "Router::route(pt1, pt2)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0FA0CE4D-E429-42CF-B511-6DA059CA75F2"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BruinTours/router.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "51"
+            endingLineNumber = "51"
+            landmarkName = "Router::route(pt1, pt2)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "0FA0CE4D-E429-42CF-B511-6DA059CA75F2 - 9aec53f61e124bc6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Router::route(GeoPoint const&amp;, GeoPoint const&amp;) const"
+                  moduleName = "BruinTours"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/stefanchirica/Dropbox/CS%2032/project%204/BruinTours/BruinTours/router.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "52"
+                  endingLineNumber = "52">
+               </Location>
+               <Location
+                  uuid = "0FA0CE4D-E429-42CF-B511-6DA059CA75F2 - 9aec53f61e12494a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Router::route(GeoPoint const&amp;, GeoPoint const&amp;) const"
+                  moduleName = "BruinTours"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/stefanchirica/Dropbox/CS%2032/project%204/BruinTours/BruinTours/router.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "64"
+                  endingLineNumber = "64">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "808EC820-2A65-4796-9955-13CBF495376E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BruinTours/geodb.h"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "GeoDatabase"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BE44863A-7FE0-4B18-B106-2817CA44DE24"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BruinTours/router.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
+            landmarkName = "Router::route(pt1, pt2)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "45A7D841-5BFD-4BD5-8F40-EAF8CA0F8361"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BruinTours/tour_generator.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "31"
+            endingLineNumber = "31"
+            landmarkName = "TourGenerator::generate_tour(stops)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B0EBA827-2D4B-4F9F-97FA-87F2DD4874BC"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BruinTours/tour_generator.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "78"
+            endingLineNumber = "78"
+            landmarkName = "TourGenerator::generate_tour(stops)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
